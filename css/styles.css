@@ -1,0 +1,121 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color:#fff;
+text-align: center;
+}
+
+p{
+display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    text-align: left;
+}
+
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 2rem;
+    font-weight: 500;
+    line-height: 1.2;
+    margin-top: 5%;
+}
+
+
+
+.h3 {
+text-align: center;
+font-size: 2rem;
+}
+
+
+#title {
+  background-color:#315a82;
+  text-align: center;
+}
+
+
+
+/* navigation Bar */
+.navbar {
+background-color: #315a82;
+  padding-top:1.5px;
+padding-bottom: 1.5px;
+padding-right: auto;
+padding-left: 150px;
+     }
+
+.navbar-brand {
+  font-family: Alex-Brush;
+  font-size: 2.3rem;
+line-height: 1.5rem;
+}
+
+.navbar-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: Montserrat-dark;
+}
+{}
+/* bottoms price Contact */
+.price-contact-bottoms {
+  margin: 5% 3% 5% 0;
+}
+
+/* title */
+.mask {
+  width: 60%;
+  margin-left: 60%;
+}
+
+
+/* features section */
+#features {
+  padding: 2% 5%;
+}
+
+
+/* testimonials */
+#testimonials {
+text-align: center;
+background-color: #ed8fa266;
+padding-top:
+}
+
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.test-image {
+  width: 30%;
+transform: rotate(10%);
+position: center;
+
+}
+
+
+/* pricing select */
+#pricing {
+  padding: 100px;
+text-align: center;
+}
+
+.pricing-colom {
+  padding: 3% 2%;
+float: side-by-side;
+font-size: 1.5rem;
+}
+
+.payment {
+font-size: 2.5;
+}
+
+@media (max-width: 900px 615px) {
+  #title{
+    text-align: center;
+
+  }
